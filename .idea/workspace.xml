@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e2e6766-87a1-47e3-a17a-b15a67845105" name="Default Changelist" comment="changed validate method" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hUbta5LvW5WqZaWVP5tQmDRarp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PasswordChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordChecker" />
+      <module name="passwordchecker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PasswordChecker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e2e6766-87a1-47e3-a17a-b15a67845105" name="Default Changelist" comment="" />
+      <created>1600068835609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600068835609</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1600150788152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600150788152</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added link">
+      <created>1600151100554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600151100554</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added link">
+      <created>1600151624427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600151624427</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed method">
+      <created>1600151637116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600151637116</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1600152061365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600152061365</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changed validate method">
+      <created>1600153624478</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600153624478</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="added link" />
+    <MESSAGE value="changed method" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="changed validate method" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed validate method" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="139" y="123" width="966" height="577" key="DiffContextDialog" timestamp="1600153998695">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="139" y="123" width="966" height="577" key="DiffContextDialog/0.23.1280.777@0.23.1280.777" timestamp="1600153998695" />
+    <state x="471" y="315" key="Github.ShareDialog" timestamp="1600152835479">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="471" y="315" key="Github.ShareDialog/0.23.1280.777@0.23.1280.777" timestamp="1600152835479" />
+    <state x="388" y="116" key="Github.UntrackedFilesDialog" timestamp="1600150659215">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="388" y="116" key="Github.UntrackedFilesDialog/0.23.1280.777@0.23.1280.777" timestamp="1600150659215" />
+    <state width="1124" height="198" key="GridCell.Tab.0.bottom" timestamp="1600153813018">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1124" height="198" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1600153813018" />
+    <state width="1124" height="198" key="GridCell.Tab.0.center" timestamp="1600153813017">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1124" height="198" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1600153813017" />
+    <state width="1124" height="198" key="GridCell.Tab.0.left" timestamp="1600153813016">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1124" height="198" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1600153813016" />
+    <state width="1124" height="198" key="GridCell.Tab.0.right" timestamp="1600153813017">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1124" height="198" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1600153813017" />
+    <state x="210" y="161" key="IDE.errors.dialog" timestamp="1600147380784">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="210" y="161" key="IDE.errors.dialog/0.23.1280.777@0.23.1280.777" timestamp="1600147380784" />
+    <state x="381" y="121" key="RollbackChangesDialog" timestamp="1600153606235">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="381" y="121" key="RollbackChangesDialog/0.23.1280.777@0.23.1280.777" timestamp="1600153606235" />
+    <state x="110" y="23" key="SettingsEditor" timestamp="1600153998342">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="110" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1600153998342" />
+    <state x="222" y="151" key="Vcs.Push.Dialog.v2" timestamp="1600153778644">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="222" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1600153778644" />
+    <state x="139" y="123" width="966" height="577" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600153414794">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="139" y="123" width="966" height="577" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1280.777@0.23.1280.777" timestamp="1600153414794" />
+    <state x="424" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600153887951">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="424" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1600153887951" />
+    <state x="119" y="154" width="1005" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600095038811">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="119" y="154" width="1005" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.777@0.23.1280.777" timestamp="1600095038811" />
+    <state x="287" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1600149467675">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="287" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1600149467675" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.h2.jdbc.JdbcSQLNonTransientException" package="org.h2.jdbc" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
