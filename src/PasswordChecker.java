@@ -64,7 +64,7 @@ public class PasswordChecker {
         }
         System.out.println(ENTERPASS);
         String pass = sc.next();
-        while(!validate.validatePassword(pass)){
+        while(validate.validatePassword(pass)){
                 System.out.println(PASSDOESNT);
                 pass = sc.next();
             }
@@ -116,7 +116,7 @@ public class PasswordChecker {
         if(validate.needPasswordReset(userid)){  // to check if password needs to be reset
              System.out.println(UPDATEMSG);
              String newpassword = sc.next();
-             while(!validate.validatePassword(newpassword)){
+             while(validate.validatePassword(newpassword)){
                  System.out.println(PASSDOESNT);
                  newpassword = sc.next();
              }
