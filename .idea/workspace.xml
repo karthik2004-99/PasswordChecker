@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e2e6766-87a1-47e3-a17a-b15a67845105" name="Default Changelist" comment="changed validate method" />
+    <list default="true" id="1e2e6766-87a1-47e3-a17a-b15a67845105" name="Default Changelist" comment="changed validate method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -35,7 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600153624478</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changed validate method">
+      <created>1600154219357</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600154219357</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -134,30 +142,30 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="139" y="123" width="966" height="577" key="DiffContextDialog/0.23.1280.777@0.23.1280.777" timestamp="1600153998695" />
-    <state x="471" y="315" key="Github.ShareDialog" timestamp="1600152835479">
+    <state x="471" y="315" key="Github.ShareDialog" timestamp="1600155730959">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="471" y="315" key="Github.ShareDialog/0.23.1280.777@0.23.1280.777" timestamp="1600152835479" />
+    <state x="471" y="315" key="Github.ShareDialog/0.23.1280.777@0.23.1280.777" timestamp="1600155730959" />
     <state x="388" y="116" key="Github.UntrackedFilesDialog" timestamp="1600150659215">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="388" y="116" key="Github.UntrackedFilesDialog/0.23.1280.777@0.23.1280.777" timestamp="1600150659215" />
-    <state width="1124" height="198" key="GridCell.Tab.0.bottom" timestamp="1600153813018">
+    <state width="1124" height="198" key="GridCell.Tab.0.bottom" timestamp="1600155810142">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1124" height="198" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1600153813018" />
-    <state width="1124" height="198" key="GridCell.Tab.0.center" timestamp="1600153813017">
+    <state width="1124" height="198" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1600155810142" />
+    <state width="1124" height="198" key="GridCell.Tab.0.center" timestamp="1600155810140">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1124" height="198" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1600153813017" />
-    <state width="1124" height="198" key="GridCell.Tab.0.left" timestamp="1600153813016">
+    <state width="1124" height="198" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1600155810140" />
+    <state width="1124" height="198" key="GridCell.Tab.0.left" timestamp="1600155810139">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1124" height="198" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1600153813016" />
-    <state width="1124" height="198" key="GridCell.Tab.0.right" timestamp="1600153813017">
+    <state width="1124" height="198" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1600155810139" />
+    <state width="1124" height="198" key="GridCell.Tab.0.right" timestamp="1600155810141">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1124" height="198" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1600153813017" />
+    <state width="1124" height="198" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1600155810141" />
     <state x="210" y="161" key="IDE.errors.dialog" timestamp="1600147380784">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -166,26 +174,30 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="381" y="121" key="RollbackChangesDialog/0.23.1280.777@0.23.1280.777" timestamp="1600153606235" />
-    <state x="110" y="23" key="SettingsEditor" timestamp="1600153998342">
+    <state x="110" y="23" key="SettingsEditor" timestamp="1600155607344">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="110" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1600153998342" />
-    <state x="222" y="151" key="Vcs.Push.Dialog.v2" timestamp="1600153778644">
+    <state x="110" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1600155607344" />
+    <state x="222" y="151" key="Vcs.Push.Dialog.v2" timestamp="1600155559990">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="222" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1600153778644" />
+    <state x="222" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1600155559990" />
     <state x="139" y="123" width="966" height="577" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600153414794">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="139" y="123" width="966" height="577" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1280.777@0.23.1280.777" timestamp="1600153414794" />
-    <state x="424" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600153887951">
+    <state x="424" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600155121384">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="424" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1600153887951" />
+    <state x="424" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1600155121384" />
     <state x="119" y="154" width="1005" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600095038811">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="119" y="154" width="1005" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.777@0.23.1280.777" timestamp="1600095038811" />
+    <state x="395" y="292" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600155659749">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="395" y="292" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1280.777@0.23.1280.777" timestamp="1600155659749" />
     <state x="287" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1600149467675">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
