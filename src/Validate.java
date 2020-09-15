@@ -6,9 +6,9 @@ public class Validate {
     public Validate(){}
     public boolean validatePassword(String password){
         if(password.length()<8)
-            return true;
+            return false;
         if(password.equals("password"))
-            return true;
+            return false;
 
         int upperCount =0,lowerCount =0,digitCount =0,nonAlphaCount =0;
         for(int i=0;i<password.length();i++){
@@ -24,7 +24,7 @@ public class Validate {
         if(p.matcher(password).find()){
             nonAlphaCount++;
         }
-        return upperCount <= 0 || lowerCount <= 0 || digitCount <= 0 || nonAlphaCount <= 0;
+        return upperCount >0 && lowerCount > 0 && digitCount >0 && nonAlphaCount > 0;
     }
 
     public boolean validateUserID(String user){

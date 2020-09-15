@@ -64,7 +64,7 @@ public class PasswordChecker {
         }
         System.out.println(ENTERPASS);
         String pass = sc.next();
-        while(validate.validatePassword(pass)){
+        while(!validate.validatePassword(pass)){
                 System.out.println(PASSDOESNT);
                 pass = sc.next();
             }
